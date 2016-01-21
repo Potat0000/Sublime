@@ -1,0 +1,12 @@
+{
+  "show_output_panel": false,
+  "dont_prepend_clang_includes": true,
+  "inhibit_sublime_completions": false,
+  "options":
+  [
+    "-ID:\\MinGW\\include",
+    "-ID:\\MinGW\\lib\\gcc\\mingw32\\4.8.1\\include",
+    "-ID:\\MinGW\\lib\\gcc\\mingw32\\4.8.1\\include\\c++",
+    "-ID:\\MinGW\\lib\\gcc\\mingw32\\4.8.1\\include\\c++\\*"
+  ]
+}

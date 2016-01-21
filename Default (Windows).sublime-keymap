@@ -1,0 +1,12 @@
+[
+    {
+            "keys": ["f12"], "command": "browser_refresh", "args": {
+            "auto_save": true,
+            "delay": 0.0,
+            "activate": false,
+            "browsers" : ["chrome"]
+        }
+    },
+    { "keys": ["ctrl+n"], "command": "advanced_new_file_new"},
+    { "keys": ["ctrl+alt+n"], "command": "new_file" },
+]

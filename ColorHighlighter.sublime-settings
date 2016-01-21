@@ -1,0 +1,6 @@
+{
+    "style": "none",
+    "ha_style": "colored text",
+    "ha_icons": true,
+    // “Filled”, “outlined”, “none”, “underlined” (solid, strippled, squiggly), “colored text”
+}

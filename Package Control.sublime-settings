@@ -1,0 +1,46 @@
+{
+	"bootstrapped": true,
+	"debug": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"AutoFileName",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"Browser Refresh",
+		"C++ Snippets",
+		"C++11",
+		"Can I Use",
+		"Color Highlighter",
+		"ConvertToUTF8",
+		"CSScomb",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"IMESupport",
+		"jQuery",
+		"jQuery Snippets pack",
+		"JsFormat",
+		"LESS",
+		"Less2Css",
+		"Markdown Preview",
+		"Material Theme",
+		"Package Control",
+		"PackageResourceViewer",
+		"SideBarEnhancements",
+		"SyncedSidebarBg",
+		"TrailingSpaces"
+	],
+	"repositories":
+	[
+		"https://github.com/sindresorhus/sublime-autoprefixer",
+		"https://github.com/xushengs/sublime-less2css",
+		"https://github.com/spadgos/sublime-jsdocs",
+		"https://github.com/timonwong/OmniMarkupPreviewer.git"
+	]
+}
